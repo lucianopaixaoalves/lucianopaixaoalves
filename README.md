@@ -25,11 +25,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianopaixaoalves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianopaixaoalves&layout=compact&theme=github_dark)
-
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianopaixaoalves&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucianopaixaoalves&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucianopaixaoalves&theme=tokyonight)
 
 ## 🎯 Objetivo
 
