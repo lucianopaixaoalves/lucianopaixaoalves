@@ -25,9 +25,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciano-paixao&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-paixao&layout=compact&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciano-paixao&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luciano-paixao&theme=tokyonight)
@@ -50,6 +50,11 @@ Me tornar um desenvolvedor Back-End sólido, capaz de criar soluções completas
 
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luciano-paixao/luciano-paixao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luciano-paixao/luciano-paixao/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luciano-paixao/luciano-paixao/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ⭐ Se curtir algum projeto, deixa uma estrela!
