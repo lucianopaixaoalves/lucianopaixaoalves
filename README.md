@@ -29,10 +29,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-paixao&layout=compact&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciano-paixao&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luciano-paixao&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luciano-paixao&theme=tokyonight)
-
 ## 🎯 Objetivo
 
 Me tornar um desenvolvedor Back-End sólido, capaz de criar soluções completas, escaláveis e eficientes, contribuindo para projetos que gerem impacto real.
